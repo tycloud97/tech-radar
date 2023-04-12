@@ -56,5 +56,5 @@ AWS Route53,ADOPT,Infrastructure,up,
 AWS ELB,ASSESS,Infrastructure,none,
 AWS VPC,ASSESS,Infrastructure,none,
 AWS CloudWatch,HOLD,Languages,up,
-AWS CloudWatch,HOLD,Languages,up,
+AWS CloudWatch1,HOLD,Languages,up,
 CDM,TRIAL,Languages,up,https://github.com/microsoft/CDM
